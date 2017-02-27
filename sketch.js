@@ -3,6 +3,7 @@
 *idea 135
 *sketch 8: p5 pong
 *2/27/17
+*I worked with Suki and we both got help from Jacob via text message.
 *I wanted to make the game more difficult while still being playable by making the paddle faster, the ball smaller, the ball color lighter, and adding frame counts all over the screen as a distraction. I also wanted it to play differently from any pong game that I've played by making the game go on forever once level 2 is unlocked. 
  */
 
